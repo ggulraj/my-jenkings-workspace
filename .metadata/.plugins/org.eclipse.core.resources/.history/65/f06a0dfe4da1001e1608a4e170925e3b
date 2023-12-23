@@ -1,0 +1,13 @@
+package com.vivah.vivah;
+
+
+
+
+public interface myinterface {
+
+	
+	
+	 abstract int sum(int a, int b);
+
+}
+
